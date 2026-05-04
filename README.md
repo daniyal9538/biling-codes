@@ -85,6 +85,7 @@ Step-by-step Jupyter notebooks are in `notebooks/`:
 | `add_gap_entries_tutorial.ipynb` | How `add_gap_entries` works and its parameters |
 | `billing_tokenizer_tutorial.ipynb` | Train, save, load, and use `BillingTokenizer` + `BillingDataset` |
 | `bcbert_maskedlm_tutorial.ipynb` | Full MLM training pipeline with `BCBERTForMaskedLM` and HuggingFace `Trainer` |
+| `tfidf_tutorial.ipynb` | Fit TF-IDF vectorizer on billing code sequences, inspect features, and save/load |
 
 ## Requirements
 
