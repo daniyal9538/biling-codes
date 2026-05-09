@@ -1,4 +1,7 @@
-# biling-codes
+<img width="342" height="342" alt="image" src="https://github.com/user-attachments/assets/3621ff30-6fa8-4f19-a30c-882dbae4ead7" /># biling-codes
+
+For questions or contributions, please contat d.selani@tudelft.nl / daniyal.9538@gmail.com
+
 
 A PyTorch + Hugging Face library for learning BERT-style representations of clinical billing (ICD) codes with Gaps.
 
